@@ -1,10 +1,1 @@
-You must copy these files to your own A4 folder.  
 
-Be sure to put the files in the correct subdirectories.  
-
-DO NOT CHANGE the contents of the linkedList.h file
-YOU MUST call your linked list file linkedList.c
-
-Your job is to write all of the required functions for the linkedList.c file (i.e. every function that is declared in linkedList.h) and then to write the food diary program that uses your linked list.
-
-Use the makefile provided.  You may add targets to it, but do not remove any of the existing targets.  Ensure that when we type 'make diary' your food diary program is correctly compiled.
